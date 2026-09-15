@@ -1,0 +1,6 @@
+BEbekan Tengah - Final Online Package
+
+Supabase URL and browser-safe publishable key have been configured in config.js.
+Do NOT add any Supabase secret/service-role key to the website.
+
+Next: upload this folder to a GitHub repository and enable GitHub Pages.
